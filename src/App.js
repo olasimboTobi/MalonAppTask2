@@ -8,7 +8,7 @@ const axiosInstance = axios.create({
   baseURL: 'https://imdb8.p.rapidapi.com/',
   method: 'GET',
   headers: {
-    'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,
+    'X-RapidAPI-Key': '35cdd7fc24msh1935a3a3988a735p1701e0jsn9bf4b1571a99',
     'X-RapidAPI-Host': 'imdb8.p.rapidapi.com',
   },
 })
